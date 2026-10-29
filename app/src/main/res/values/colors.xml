@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="even_background">#FFFF0000</color>
+    <color name="odd_background">#FF0000FF</color>
+    <color name="border_color">#FF000000</color>
+    <color name="text_color">#FFFFFFFF</color>
+</resources>
